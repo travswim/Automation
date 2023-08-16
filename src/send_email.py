@@ -1,3 +1,5 @@
+# TODO: Logging, error handling, etc.
+# TODO: Testing
 class SendEmail:
     def __init__(self):
         # TODO: import all configuration, credentials, etc.
